@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I aim to build robust systems that automates routine calibrations of explainable analytics models and topic modeling of text verbatims. It is important that the models are hardworking and provides data-driven insights to enable informed business decisions.
+I aim to build robust systems that automate backend analytics processes such as regular calibrations of explainable analytics models and GenAI-based models to label text verbatims. It is important that the built models are hardworking and provide data-driven insights to enable informed business decisions.
 
-I am passionate about designing relevant and timely curricular programs in computer science. I intend to make the courses I teach much more engaging and fun to learn. 
+I am also passionate about designing relevant and timely curricular programs in computer science. As a teacher, I intend to make the courses I teach much more engaging and fun to learn. 
 
 
