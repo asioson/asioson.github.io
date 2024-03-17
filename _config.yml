@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Allan Sioson"
 title_separator          : "-"
 name                     : &name "Allan Sioson"
-description              : &description "Data Scientist, University Lecturer"
+description              : &description "Data Scientist, Teacher"
 url                      : https://asioson.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "asioson/asioson.github.io"
+repository               : "" # "asioson/asioson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Allan Sioson"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist, University Lecturer"
+  bio              : "Data Scientist, Teacher"
   location         : "Philippines"
   employer         : "Globe Fintech Innovations, Inc."
   uri              : # URL
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=WXiA6qQAAAAJ"
   #impactstory      : # URL
-  #orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1696-4560"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
 
@@ -54,9 +54,9 @@ author:
   #goodreads        : # Username
   #google_plus      : # Username
   #keybase          : # Username
-  #instagram        : # Username
+  instagram         : allan.sioson # Username
   #lastfm           : # Username
-  #linkedin         : # Username
+  linkedin          : allansioson # Username
   #mastodon         : # URL
   #medium           : # URL
   #pinterest        : # Username
