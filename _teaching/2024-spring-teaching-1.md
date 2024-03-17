@@ -1,7 +1,7 @@
 ---
 title: "CSCI 203 Theory of Automata and Formal Languages"
 collection: teaching
-type: "Workshop"
+type: "Core Subject"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Ateneo de Manila University, Department of Information Systems and Computer Science"
 date: 2024-01-01
