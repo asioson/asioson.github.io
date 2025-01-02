@@ -1,5 +1,5 @@
 ---
-title: "CSCI 201 Advanced Data Structures and Algorithms
+title: "CSCI 201 Advanced Data Structures and Algorithms"
 collection: teaching
 type: "Core Subject"
 permalink: /teaching/2023-csci201-fall-teaching
