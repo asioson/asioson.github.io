@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "asioson"
 title_separator          : "-"
 name                     : &name "Allan Sioson"
-description              : &description "Data Scientist, Teacher"
+description              : &description "Computer Scientist, Teacher"
 url                      : https://asioson.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "" # "asioson/asioson.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Allan Sioson"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist, Teacher"
+  bio              : "Computer Scientist, Teacher"
   location         : "Philippines"
   employer         : "Globe Fintech Innovations, Inc."
   uri              : # URL
