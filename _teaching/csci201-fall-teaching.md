@@ -2,7 +2,7 @@
 title: "CSCI 201 Advanced Data Structures and Algorithms"
 collection: teaching
 type: "Core Subject"
-permalink: /teaching/2023-csci201-fall-teaching
+permalink: /teaching/csci201-fall-teaching
 venue: "Ateneo de Manila University, Department of Information Systems and Computer Science"
 date: 2025-08-01
 location: "Quezon City, Philippines"

@@ -2,7 +2,7 @@
 title: "CSCI 202 Programming Languages and Paradigms"
 collection: teaching
 type: "Core Subject"
-permalink: /teaching/2023-csci202-fall-teaching
+permalink: /teaching/csci202-fall-teaching
 venue: "Ateneo de Manila University, Department of Information Systems and Computer Science"
 date: 2025-08-01
 location: "Quezon City, Philippines"
