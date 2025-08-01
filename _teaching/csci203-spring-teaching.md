@@ -4,7 +4,7 @@ collection: teaching
 type: "Core Subject"
 permalink: /teaching/csci203-spring-teaching
 venue: "Ateneo de Manila University, Department of Information Systems and Computer Science"
-date: 2025-01-01
+date: 2026-01-01
 location: "Quezon City, Philippines"
 ---
 
