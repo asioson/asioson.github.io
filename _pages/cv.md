@@ -13,7 +13,9 @@ redirect_from:
 
 Education
 ======
-*
+* PhD Computer Science and Applications, Virginia Tech, 2005
+* MS Computer Science, Ateneo de Manila University, 1994
+* BS Mathematics, Ateneo de Manila University, 1991 
 
 Publications
 ======
